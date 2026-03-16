@@ -1,0 +1,2 @@
+Project Overview:
+The **Handwritten Digit Recognition App** is a machine learning application that identifies handwritten digits (0–9) from image data. It uses the **MNIST dataset**, where each digit is represented by **784 pixel values (28×28)**, to train a prediction model. The system analyzes pixel patterns to accurately classify the digit entered by the user. This project demonstrates the use of **image processing and machine learning for real-world digit recognition tasks**.
